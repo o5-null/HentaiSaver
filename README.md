@@ -25,7 +25,7 @@
 
 1.下载所有文件至本地
 2.在源码同路径下创建site.ini文件
-3.在文件中写入网址 https://zha.nyabus.com/ https://zhb.nyabus.com/ 或到https://trello.com/c/HzN241dq/获取
+3.在文件中写入网址 https://zha.nyabus.com/ https://zhb.nyabus.com/ 或到https://trello.com/c/HzN241dq/ 获取
 
 
 
