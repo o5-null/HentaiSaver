@@ -29,7 +29,8 @@
 使用说明：
 
 1.从源码创建可使用的程序
-2.直接下载已编译的完整程序包 https://github.com/o5-null/HentaiSaver/releases/tag/begining
+2.直接下载已编译的完整程序包 https://github.com/o5-null/HentaiSaver/releases/tag/begining或https://wwa.lanzous.com/b00ob6xid 
+密码:g910
 
 
 
