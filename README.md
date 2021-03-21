@@ -1,6 +1,6 @@
 # HentaiSaver
 一个用于下载nhentai及nyahentai的小工具
-首发于xuexia15.cc
+首发于xuexia15.org
 
 本程序使用python编程
 使用aria2c实现多并发下载
